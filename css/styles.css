@@ -55,6 +55,9 @@ address {
   margin-left: auto;
   margin-right: auto;
 }
+.active {
+  color: var(--accent-color);
+}
 
 /* LOGO */
 .logo {
@@ -104,6 +107,9 @@ address {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--secondary-text-color-theme-light);
+}
+.active {
+  color: var(--accent-color);
 }
 .nav-list-link:hover,
 :focus {
