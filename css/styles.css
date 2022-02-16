@@ -112,7 +112,7 @@ address {
 }
 .nav-list-link:hover,
 .nav-list-link:focus,
-.active-page {
+.active-page:active {
   color: var(--accent-color);
 }
 .contact-list {
